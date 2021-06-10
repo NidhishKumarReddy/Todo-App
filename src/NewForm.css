@@ -1,0 +1,24 @@
+.NewForm{
+    display: flex;
+    justify-content: space-between;
+    margin: 3rem;
+}
+
+.NewForm input{
+    border-radius: 2rem;
+    border-color: #ef476f;
+    border-width: 0;
+}
+
+.NewForm input:focus{
+    outline:none;
+}
+
+.add{
+    color:#264653;
+    font-size: xx-large;
+}
+
+.add:hover{
+    color: #2a9d8f;
+}

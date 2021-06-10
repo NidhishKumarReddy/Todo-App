@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+
+.TodoList{
+    margin-top: 4rem;
+    width: 30%;
+    box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.56);
+    background-color: #ef476f;
+    border-radius: 3px;
+    color: wheat;
+}

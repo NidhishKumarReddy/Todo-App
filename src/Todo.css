@@ -1,0 +1,58 @@
+.Todo-Completed{
+    color: lightgrey;
+    text-decoration: line-through;
+}
+
+
+
+.Todo li{
+    list-style: none;
+    
+}
+
+.icon1{
+    margin-left: 0.4rem;
+    color:#264653;
+}
+
+.icon2{
+    margin-left: 0.4rem;
+    color:#264653;
+}
+
+.icon1:hover{
+    color: #2a9d8f;
+}
+
+.icon2:hover{
+    color: #2a9d8f;
+}
+
+.icon3:hover{
+    color: #2a9d8f;
+}
+
+.icon3{
+    margin-left: 0.4rem;
+    color:#264653;
+}
+
+.Todo input{
+    border-radius: 2rem;
+    border-color: #ef476f;
+    border-width: 0;
+}
+
+.Todo input:focus{
+    outline:none;
+}
+
+.Todo{
+    display: flex;
+    justify-content: space-between;
+    margin: 3rem;
+    font-size: x-large;
+    box-shadow: 7px 0px 12px -5px rgba(255, 255, 255, 0.56);
+}
+
+
